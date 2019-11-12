@@ -1,2 +1,5 @@
 # kakao-clone
- html/css Example
+
+html/css Example
+
+Kakao Desktop App Clone
